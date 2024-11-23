@@ -189,8 +189,3 @@ En este tutorial, aprendimos a utilizar SQL Server para realizar análisis avanz
 - **Consultas avanzadas**: JOIN, GROUP BY, HAVING, subconsultas.
 - **Funciones definidas por el usuario**: Para lógica modular.
 - **Normalización**: Para garantizar la integridad de los datos.
-
-## Próximos Pasos
-1. Experimentar con datos reales.
-2. Explorar temas avanzados como procedimientos almacenados.
-3. Aplicar lo aprendido en otros contextos.
